@@ -1,6 +1,6 @@
 {
   "name": "@ag-test-organization/private-library-test",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/private-library-test.ssr.js",
   "browser": "dist/private-library-test.esm.js",
